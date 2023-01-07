@@ -2,7 +2,7 @@ let text = document.getElementById("text");
 let bird1 = document.getElementById("bird1");
 let bird2 = document.getElementById("bird2");
 let btn = document.getElementById("btn");
-let rock = document.getElementById("rock");
+let rock = document.getElementById("rocks");
 let forest = document.getElementById("forest");
 let header = document.getElementById("header");
 
